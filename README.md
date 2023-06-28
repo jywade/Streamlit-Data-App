@@ -1,2 +1,3 @@
-# Streamlit-Data-App
-In this project, I build a data app/dashboard in Python using streamlit, plotly, and pandas. 
+## Streamlit Data Application/Dashboard
+
+ **Tools and Libraries:** Python, streamlit, pandas, plotly.express, plotly.figure_factory
