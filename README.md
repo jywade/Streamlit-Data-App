@@ -1,5 +1,7 @@
 # Streamlit Data Application/Dashboard
 
+#### In this project, I create an interactive, dynamic and data-driven application providing a straightforward and intuitive interface using streamlit. 
+
  **Tools and Libraries:** Python, streamlit, pandas, plotly.express, plotly.figure_factory
 
  ###  _Overview_
