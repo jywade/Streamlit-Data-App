@@ -1,6 +1,6 @@
 # Streamlit Data Application/Dashboard
 
-## Click [here](https://dashboard-superstore.streamlit.app/) to view my data web app!
+### Click [here](https://dashboard-superstore.streamlit.app/) to view my data web app!
 
 #### In this project, I create an interactive, dynamic and data-driven application providing a straightforward and intuitive interface using streamlit. The dataset used was a superstore sales dataset with a shape of 21 columns and 9,989 rows. Below is the info at a glance:
 
